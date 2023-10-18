@@ -6,8 +6,8 @@ Neste projeto foi implementado um programa que simula um algoritmo de indexaçã
 
 O programa é composto de dois módulos:
 
-Módulo de gerenciamento de arquivos que permite anexar arquivos de texto (formato TXT) e;
-Módulo de buscas que permite operar funções de busca sobre os arquivos anexados.
+- Módulo de gerenciamento de arquivos que permite anexar arquivos de texto (formato TXT) e;
+- Módulo de buscas que permite operar funções de busca sobre os arquivos anexados.
 
 🚵 Habilidades exercitadas:
 
